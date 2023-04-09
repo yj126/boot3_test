@@ -7,4 +7,8 @@ package com.example.boot3_test;
  * @Version 1.0
  */
 public class ＴｅｓｔＣｏｎ {
+    public static void main(String[] args) {
+        String s = "ss";
+    }
+
 }
